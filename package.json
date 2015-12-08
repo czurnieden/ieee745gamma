@@ -1,5 +1,5 @@
 {
-  "name" : "gamma",
+  "name" : "ieee745gamma",
   "version" : "1.0.0",
   "description" : "The gamma and log(gamma) function to 64-bit precision",
   "main" : "ieee745gamma.js",
