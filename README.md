@@ -51,6 +51,7 @@ The correct results to 38 decimal digits in the comments
 0.6931471805599453      // 0.69314718055994530941723212145817656808
 > g.lngamma(3) - Math.log(2)
 0                       // 0
+```
 
 # Methods
 
@@ -60,12 +61,14 @@ Returns `exp(log(gamma(x)))` for real `x`, `x` not a negative integer, over the 
 ## lngamma(x)
 Returns `log(gamma(x))` for real `x`, `x` not a negative integer, over the range of ca.  -10^14 <= x <= 10^305, `Infinity` otherwise.
 
+
 # Install
 
 With [npm](http://npmjs.org) do:
 
 ```
 npm install ieee745gamma
+```
 
 
 # License
