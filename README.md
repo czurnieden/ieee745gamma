@@ -26,7 +26,7 @@ That license is compatible with the MIT license.
 
 A normal gamma function is implemented, too, but only with `Math.exp()` which induces a large error, especially for larger numbers. See the examples for details.
 
-A correct exponential function is planned for a later version.
+To implement a better exponential function is planned for a later version.
 
 # Example
 
@@ -66,7 +66,7 @@ With [npm](http://npmjs.org) do:
 
 ```
 npm install ieee745gamma
-```
+
 
 # License
 
