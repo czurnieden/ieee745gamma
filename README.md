@@ -2,7 +2,7 @@
 
 The log(gamma) function in JavaScript as defined in IEEE-745.
 
-[![browser support](https://github.com/czurnieden/ieee745gamma/badge.png)](https://github.com/czurnieden/ieee745gamma/ieee745gamma.js)
+[![browser support](https://github.com/czurnieden/ieee745gamma/blob/master/badge.png)](https://github.com/czurnieden/ieee745gamma/ieee745gamma.js)
 
 # Version
 
