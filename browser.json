@@ -1,0 +1,14 @@
+{
+  "explorer" : { "7.0" : false, "8.0" : false, "9.0" : false, "10.0" : true },
+  "firefox" : { "15.0" : true, "nightly" : true },
+  "chrome" : { "9.0" : true, "canary" : true },
+  "safari" : { "5.1" : true },
+  "opera" : { "12.1" : true },
+  "android-browser" : {"4.0" : true },
+  "android-chrome" : {"9.0":true},
+  "android-firefox" : {"15.0" : true},
+  "android-opera" : {"12.0" : true},
+  "iphone" : {"4.2" : true},
+  "ipad" : {"4.2" : true}
+}
+

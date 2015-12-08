@@ -1,0 +1,31 @@
+{
+  "name" : "gamma",
+  "version" : "1.0.0",
+  "description" : "The gamma and log(gamma) function to 64-bit precision",
+  "main" : "ieee745gamma.js",
+  "devDependencies" : {
+        "vows": "^0.5.x"
+  },
+  "scripts" : {
+    "test" : "node ieee745gamma-test.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/czurnieden/ieee745gamma"
+  },
+  "keywords" : [
+    "IEEE-754",
+    "lngamma",
+    "gamma",
+    "factorial",
+    "mathematics",
+    "approximation"
+  ],
+  "author" : {
+    "name" : "Christoph Zurnieden",
+    "email" : "czurnieden@gmx.de",
+    "url" : "https://deamentiaemundi.wordpress.com"
+  },
+  "license" : "MIT"
+}
+
